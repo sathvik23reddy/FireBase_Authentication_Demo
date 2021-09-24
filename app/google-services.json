@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527352480533",
+    "project_id": "fir-authdemo-f5684",
+    "storage_bucket": "fir-authdemo-f5684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527352480533:android:2da3fd8f90a4bf97311f1c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527352480533-7phhk64ob7sl95ph43nd9rdnp0jvq468.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauthdemo",
+            "certificate_hash": "9fbd112d9c5b445e53f7286f4a78e856c9c79c7d"
+          }
+        },
+        {
+          "client_id": "527352480533-ao933ijeiusseos1tv17gsdll516nrb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcUaJX1yJnF5su6S0DQ4eblHT87CKe6mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527352480533-ao933ijeiusseos1tv17gsdll516nrb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

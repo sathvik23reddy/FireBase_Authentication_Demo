@@ -4,6 +4,7 @@
 -> These details can later be used as per the application needs. Uses Glide library to load profile picture onto ImageView.
 -> Sign out button signs the current user out enabling another user to sign in.
 
+-> Get the app https://drive.google.com/drive/folders/1kIUnv9KnrwKHb517bSeULXTa__d-asx3?usp=sharing
 
 
 https://user-images.githubusercontent.com/66932035/134668839-a4d4ad29-6bd4-424e-a5be-708662003519.mp4

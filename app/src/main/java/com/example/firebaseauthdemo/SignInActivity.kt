@@ -31,7 +31,7 @@ class SignInActivity : AppCompatActivity() {
     private lateinit var auth: FirebaseAuth
     private lateinit var googleSignInClient: GoogleSignInClient
     private val RC_SIGN_IN = 999
-    private val TAG = "SignInActivity Tag"
+    private val TAG = "SignInActivity"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -75,7 +75,6 @@ class SignInActivity : AppCompatActivity() {
     }
 
     private fun handleSignInResult(completedTask: Task<GoogleSignInAccount>) {
-        println("Here")
         try {
             val account =
                 completedTask.getResult(ApiException::class.java)!!

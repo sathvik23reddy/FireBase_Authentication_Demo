@@ -58,7 +58,6 @@ class MainActivity : AppCompatActivity() {
             val SignInIntent= Intent(this, SignInActivity::class.java)
             startActivity(SignInIntent)
             finish()
-            println("Happepning")
         }
     }
 }
